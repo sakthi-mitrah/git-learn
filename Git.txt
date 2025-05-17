@@ -1,2 +1,2 @@
-Hi, This git-Learning repositary is just for Learning the Git concept from the scratch easily with understable for 
+Hi, This git-Learned repositary is just for Learning the Git concept from the scratch easily with understable for 
 my knowledge
